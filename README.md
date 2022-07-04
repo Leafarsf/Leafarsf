@@ -1,18 +1,24 @@
-<center>![alt-text](https://68.media.tumblr.com/99ca738595aed1aaa45a41032847c6af/tumblr_oozksybC5g1s7dhyjo6_r1_500.gif "d.va and genji")</center>
 
-### Hi there 👋
+<div id="header" align="center">
+<img src="/octocat-1656967480034.png" width="200"/> <h2>
+</div>
 
-<!--
-**Leafarsf/Leafarsf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">  Hi there! I'm Rafael </h1>
+I'm a brazilian guy, working as an ESL (English as a second language) teacher. I'm seeking for new opportunities in the tech world by attending college as a future computer system analyst.
+Some more info about me:
+  
+- 🌱 I’m currently learning Python3, Javascript and Typescript
+- 🤔 I’m looking for help with front-end development and implementing API's
+- 🤝 I’m looking to collaborate with various teams on different types of projects
+- 😄 Pronouns: He/him
+- ⚡ Fun fact: I'm a gamer! I love playing Dead By Daylight and Overwatch. I'm also a reader, Stephen King and José Saramago are my favorite authors of all time :)
 
-Here are some ideas to get you started:
+<h2 align="center"> You can find me on: </h2>
+<p align="center">
+<a href="https://linkedin.com/in/rafael-fernandes-667b40205" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rafael-fernandes-667b40205" height="30" width="40" /></a>
+<a href="https://instagram.com/rafiuski_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rafiuski_" height="30" width="40" /></a>
+<a href="https://discord.gg/guDPWGEc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="guDPWGEc" height="30" width="40" /></a>
+</p>
+  
+![Leafarsf's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leafarsf&show_icons=true&theme=tokyonight)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
